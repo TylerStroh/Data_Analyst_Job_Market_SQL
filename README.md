@@ -279,3 +279,4 @@ in salaries with pyspark being the highest with a salary of $208k. Also with a S
 
 Throughout this project I learned to enhance my SQL skills to help provide valuable insights about 2023 Data Analyst job market. Since I am looking to land a role in Data Analytics looking through this data helped give me a better understanding of what else I should take time to learn to help be a better fit for one of these positions since the Data Analyst job market can be competitive.
 
+
