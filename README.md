@@ -25,7 +25,7 @@ For my deep dive into the Data Analyst job market I used several key tools:
 - **SQL:** The language used to run the queries on the database to find my insights.
 - **Visual Studio Code:** Where I saved my code and executed the SQL queries.
 - **PostgreSQL:** The database management system used to handle the job posting data.
-- **Git & GitHib:** Used for version control and sharing my SQL queries and analysis.
+- **Git & GitHub:** Used for version control and sharing my SQL queries and analysis.
 
 # The Analysis
 
